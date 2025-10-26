@@ -1,0 +1,25 @@
+  .heading{
+    color: red;
+    font: size 18px;
+    background-color:yellow;
+    padding: 10px;
+  }
+
+  .blue{
+    color:blue;
+  }
+
+  .gold{
+    color:gold;
+  }
+
+  .yes{
+    color: gold;
+    font: size 18px;
+    background-color:black;
+    padding: 10px;
+  }
+
+  .purple{
+    color:rgb(220, 6, 248);
+  }
